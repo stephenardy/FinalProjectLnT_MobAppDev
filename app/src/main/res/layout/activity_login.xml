@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="#FFEA20">
+
+
+    <TextView
+        android:id="@+id/tv_loginTitle"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Selamat Datang!"
+        android:textColor="#644536"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout_loginForm"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="23dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout_loginForm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:background="#FAFAFA">
+
+        <TextView
+            android:id="@+id/tv_loginEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Masukkan email kamu"
+            android:textSize="16dp"
+            android:textColor="#000000"
+            android:layout_marginTop="64dp"
+            />
+
+        <EditText
+            android:id="@+id/et_loginEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"/>
+
+        <TextView
+            android:id="@+id/tv_loginPw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Masukkan password kamu"
+            android:textSize="16dp"
+            android:textColor="#000000"
+            android:layout_marginTop="16dp"/>
+
+        <EditText
+            android:id="@+id/et_loginPw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/btn_toHome"
+            android:layout_width="171dp"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:backgroundTint="#FAF33E"
+            android:textColor="#000000"
+            android:layout_marginTop="64dp"
+            android:layout_marginBottom="8dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_goToSignup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:text="Belum memiliki akun?"
+                android:textColor="#644536" />
+
+            <TextView
+                android:id="@+id/tv_goToSignup2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Buat Akun"
+                android:textColor="#EAD637" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_account_foreground.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_add_foreground.xml" value="0.136" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_calculate.xml" value="0.136" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_calculate_background.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_calculate_foreground.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_minus_foreground.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_launcher_start_background.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout-land/activity_start.xml" value="0.14858906525573193" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/content_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_dashboard.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_first.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_home.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_luas_lingkaran.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_luas_persegi.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_luas_segitiga.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_notifications.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_piramid.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_second.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_volume_balok.xml" value="0.22" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_volume_piramid.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/layout/fragment_volume_tabung.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/menu/menu_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_account.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_calculate.xml" value="0.136" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_luas.xml" value="0.136" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_minus.xml" value="0.1515" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_start.xml" value="0.136" />
+        <entry key="..\:/Users/ardys/AndroidStudioProjects/LnTFinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_start_round.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
